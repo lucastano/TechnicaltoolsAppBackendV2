@@ -1,0 +1,6 @@
+@TechnicalToolsAppBackendV2.WebApi_HostAddress = http://localhost:5270
+
+GET {{TechnicalToolsAppBackendV2.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "TechnicalToolsAppBackendV2.WebApi.Controllers.SeguridadController",
+    "Method": "Login",
+    "RelativePath": "api/Seguridad/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TechnicalToolsAppBackendV2.WebApi.DTOs.DTOsSeguridad.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechnicalToolsAppBackendV2.WebApi.Controllers.TecnicosController",
+    "Method": "Agregar",
+    "RelativePath": "api/Tecnicos/CrearTecnico",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TechnicalToolsAppBackendV2.WebApi.DTOs.DTOsTecnico.AgregarTecnicoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

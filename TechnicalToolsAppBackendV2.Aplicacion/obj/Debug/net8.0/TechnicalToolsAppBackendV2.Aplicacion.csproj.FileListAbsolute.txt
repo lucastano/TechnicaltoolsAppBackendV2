@@ -1,0 +1,17 @@
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\bin\Debug\net8.0\TechnicalToolsAppBackendV2.Aplicacion.deps.json
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\bin\Debug\net8.0\TechnicalToolsAppBackendV2.Aplicacion.dll
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\bin\Debug\net8.0\TechnicalToolsAppBackendV2.Aplicacion.pdb
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\bin\Debug\net8.0\TechnicalToolsAppBackendV2.AccesoDatos.dll
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\bin\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.dll
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\bin\Debug\net8.0\TechnicalToolsAppBackendV2.AccesoDatos.pdb
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\bin\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.pdb
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\obj\Debug\net8.0\TechnicalToolsAppBackendV2.Aplicacion.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\obj\Debug\net8.0\TechnicalToolsAppBackendV2.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\obj\Debug\net8.0\TechnicalToolsAppBackendV2.Aplicacion.AssemblyInfoInputs.cache
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\obj\Debug\net8.0\TechnicalToolsAppBackendV2.Aplicacion.AssemblyInfo.cs
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\obj\Debug\net8.0\TechnicalToolsAppBackendV2.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\obj\Debug\net8.0\Technica.D2F1B9FE.Up2Date
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\obj\Debug\net8.0\TechnicalToolsAppBackendV2.Aplicacion.dll
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\obj\Debug\net8.0\refint\TechnicalToolsAppBackendV2.Aplicacion.dll
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\obj\Debug\net8.0\TechnicalToolsAppBackendV2.Aplicacion.pdb
+C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.Aplicacion\obj\Debug\net8.0\ref\TechnicalToolsAppBackendV2.Aplicacion.dll

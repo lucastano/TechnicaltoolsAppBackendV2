@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ICasosUso\ICasosUsoAdministrador\" />
+    <Folder Include="ICasosUso\ICasosUsoCliente\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mailjet.Api" Version="3.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TechnicalToolsAppBackendV2.AccesoDatos\TechnicalToolsAppBackendV2.AccesoDatos.csproj" />
+    <ProjectReference Include="..\TechnicalToolsAppBackendV2.LogicaNegocio\TechnicalToolsAppBackendV2.LogicaNegocio.csproj" />
+  </ItemGroup>
+
+</Project>
