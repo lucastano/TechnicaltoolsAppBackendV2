@@ -7,6 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="PlantillasEmail\Bienvenida.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="PlantillasEmail\Bienvenida.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="ICasosUso\ICasosUsoAdministrador\" />
     <Folder Include="ICasosUso\ICasosUsoCliente\" />
   </ItemGroup>

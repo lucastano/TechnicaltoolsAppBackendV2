@@ -10,6 +10,7 @@ using TechnicalToolsAppBackendV2.AccesoDatos.EntityFramework;
 using TechnicalToolsAppBackendV2.Aplicacion.CasosUso.CasosUsoAvisoEmail;
 using TechnicalToolsAppBackendV2.Aplicacion.CasosUso.CasosUsoConfiguraciones;
 using TechnicalToolsAppBackendV2.Aplicacion.CasosUso.CasosUsoEmpresa;
+using TechnicalToolsAppBackendV2.Aplicacion.CasosUso.CasosUsoRegistroEmpresa;
 using TechnicalToolsAppBackendV2.Aplicacion.CasosUso.CasosUsoRol;
 using TechnicalToolsAppBackendV2.Aplicacion.CasosUso.CasosUsoSeguridad;
 using TechnicalToolsAppBackendV2.Aplicacion.CasosUso.CasosUsoTecnico;
@@ -17,6 +18,7 @@ using TechnicalToolsAppBackendV2.Aplicacion.CasosUso.CasosUsoUsuario;
 using TechnicalToolsAppBackendV2.Aplicacion.ICasosUso.ICasosUsoAvisosEmail;
 using TechnicalToolsAppBackendV2.Aplicacion.ICasosUso.ICasosUsoConfiguraciones;
 using TechnicalToolsAppBackendV2.Aplicacion.ICasosUso.ICasosUsoEmpresa;
+using TechnicalToolsAppBackendV2.Aplicacion.ICasosUso.ICasosUsoRegistroEmpresa;
 using TechnicalToolsAppBackendV2.Aplicacion.ICasosUso.ICasosUsoRol;
 using TechnicalToolsAppBackendV2.Aplicacion.ICasosUso.ICasosUsoSeguridad;
 using TechnicalToolsAppBackendV2.Aplicacion.ICasosUso.ICasosUsoTecnico;
@@ -64,6 +66,10 @@ builder.Services.AddScoped<ICrearToken, CrearToken>();
 builder.Services.AddScoped<IEnviarEmailNuevoUsuario, EnviarEmailNuevoUsuario>();
 builder.Services.AddHttpClient<IConfiguracionSenderEmail, ConfiguracionSenderEmail>();
 builder.Services.AddScoped<IConfiguracionGlobalRepositorio, ConfiguracionGlobalRepositorio>();
+builder.Services.AddScoped<IAgregarAdministrador,AgregarAdministrador>();
+builder.Services.AddScoped<IAgregarUsuarioAdministrador, AgregarUsuarioAdministrador>();
+builder.Services.AddScoped<IRegistroInicialEmpresa,RegistroInicialEmpresa>();
+builder.Services.AddScoped<IEnviarAvisoRegistroEmpresa, EnviarAvisoRegistroEmpresa>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

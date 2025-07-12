@@ -31,12 +31,14 @@ namespace TechnicalToolsAppBackendV2.WebApi.Controllers
                 loginObject.Password = dto.Password;
                 loginObject.Rol = dto.Rol;
                 ObjetoSeguridad objetoSeguridad = await LoginUc.Ejecutar(loginObject, _configuration);
-                TecnicoDTO dtoTecnico = new TecnicoDTO()
+                TecnicoLogeadoDTO dtoTecnico = new TecnicoLogeadoDTO()
                 {
-                    IdTecnico = objetoSeguridad.tecnico.IdTecnico,
-                    Nombre = objetoSeguridad.tecnico.Nombre,
-                    Apellido = objetoSeguridad.tecnico.Apellido,
-                    Email = objetoSeguridad.usuario.Email
+                    idTecnico = objetoSeguridad.tecnico.IdTecnico,
+                    nombre = objetoSeguridad.tecnico.Nombre,
+                    apellido = objetoSeguridad.tecnico.Apellido,
+                    email = objetoSeguridad.usuario.Email,
+                    rol = objetoSeguridad.usuario.Rol.RolCodigo,
+                    IdEmpresa = objetoSeguridad.tecnico.Empresa.Id
                 };
                 ResponseLoginDTO responseLoginDTO = new ResponseLoginDTO()
                 {

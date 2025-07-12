@@ -1,34 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\",
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86051800-8C18-4084-8C12-0FC04454A858}|TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj|c:\\mac\\home\\desktop\\desarrollo\\v2backend\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.webapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86051800-8C18-4084-8C12-0FC04454A858}|TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj|solutionrelative:technicaltoolsappbackendv2.webapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|c:\\users\\lucas\\desktop\\desarrollo\\backendv2\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusousuario\\agregarusuarioadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|solutionrelative:technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusousuario\\agregarusuarioadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86051800-8C18-4084-8C12-0FC04454A858}|TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj|c:\\mac\\home\\desktop\\desarrollo\\v2backend\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86051800-8C18-4084-8C12-0FC04454A858}|TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj|solutionrelative:technicaltoolsappbackendv2.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F780CD5-F4DA-4570-9625-EFE58A2FB7E1}|TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj|c:\\users\\lucas\\desktop\\desarrollo\\backendv2\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.logicanegocio\\modelo\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F780CD5-F4DA-4570-9625-EFE58A2FB7E1}|TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj|solutionrelative:technicaltoolsappbackendv2.logicanegocio\\modelo\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5F6C4ED-4749-4617-9641-048CA7C2847A}|TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj|c:\\mac\\home\\desktop\\desarrollo\\v2backend\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.accesodatos\\entityframework\\empresarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|c:\\users\\lucas\\desktop\\desarrollo\\backendv2\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.aplicacion\\icasosuso\\icasosusousuario\\iagregarusuarioadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|solutionrelative:technicaltoolsappbackendv2.aplicacion\\icasosuso\\icasosusousuario\\iagregarusuarioadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|c:\\users\\lucas\\desktop\\desarrollo\\backendv2\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.aplicacion\\icasosuso\\icasosusousuario\\iagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|solutionrelative:technicaltoolsappbackendv2.aplicacion\\icasosuso\\icasosusousuario\\iagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F780CD5-F4DA-4570-9625-EFE58A2FB7E1}|TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj|c:\\users\\lucas\\desktop\\desarrollo\\backendv2\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.logicanegocio\\modelo\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F780CD5-F4DA-4570-9625-EFE58A2FB7E1}|TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj|solutionrelative:technicaltoolsappbackendv2.logicanegocio\\modelo\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F6C4ED-4749-4617-9641-048CA7C2847A}|TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj|c:\\users\\lucas\\desktop\\desarrollo\\backendv2\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.accesodatos\\entityframework\\sucursalrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F6C4ED-4749-4617-9641-048CA7C2847A}|TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj|solutionrelative:technicaltoolsappbackendv2.accesodatos\\entityframework\\sucursalrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|c:\\users\\lucas\\desktop\\desarrollo\\backendv2\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusoavisoemail\\enviaravisoregistroempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|solutionrelative:technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusoavisoemail\\enviaravisoregistroempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|c:\\users\\lucas\\desktop\\desarrollo\\backendv2\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.aplicacion\\plantillasemail\\bienvenida.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|solutionrelative:technicaltoolsappbackendv2.aplicacion\\plantillasemail\\bienvenida.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|c:\\users\\lucas\\desktop\\desarrollo\\backendv2\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusoregistroempresa\\registroinicialempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|solutionrelative:technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusoregistroempresa\\registroinicialempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F6C4ED-4749-4617-9641-048CA7C2847A}|TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj|c:\\users\\lucas\\desktop\\desarrollo\\backendv2\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.accesodatos\\entityframework\\empresarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5F6C4ED-4749-4617-9641-048CA7C2847A}|TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj|solutionrelative:technicaltoolsappbackendv2.accesodatos\\entityframework\\empresarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|c:\\mac\\home\\desktop\\desarrollo\\v2backend\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusousuario\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|solutionrelative:technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusousuario\\agregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|c:\\mac\\home\\desktop\\desarrollo\\v2backend\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusoconfiguraciones\\configuracionsenderemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|solutionrelative:technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusoconfiguraciones\\configuracionsenderemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|c:\\mac\\home\\desktop\\desarrollo\\v2backend\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusotecnico\\agregartecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F03328-7604-464A-9841-F045247F4B7A}|TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj|solutionrelative:technicaltoolsappbackendv2.aplicacion\\casosuso\\casosusotecnico\\agregartecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86051800-8C18-4084-8C12-0FC04454A858}|TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj|c:\\mac\\home\\desktop\\desarrollo\\v2backend\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.webapi\\controllers\\tecnicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86051800-8C18-4084-8C12-0FC04454A858}|TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj|solutionrelative:technicaltoolsappbackendv2.webapi\\controllers\\tecnicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86051800-8C18-4084-8C12-0FC04454A858}|TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj|c:\\users\\lucas\\desktop\\desarrollo\\backendv2\\technicaltoolsappbackendv2\\technicaltoolsappbackendv2.webapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86051800-8C18-4084-8C12-0FC04454A858}|TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj|solutionrelative:technicaltoolsappbackendv2.webapi\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +54,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmpresasController.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\Controllers\\EmpresasController.cs",
-              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.WebApi\\Controllers\\EmpresasController.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\Controllers\\EmpresasController.cs",
-              "RelativeToolTip": "TechnicalToolsAppBackendV2.WebApi\\Controllers\\EmpresasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Title": "AgregarUsuarioAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoUsuario\\AgregarUsuarioAdministrador.cs",
+              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoUsuario\\AgregarUsuarioAdministrador.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoUsuario\\AgregarUsuarioAdministrador.cs",
+              "RelativeToolTip": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoUsuario\\AgregarUsuarioAdministrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:57:11.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.WebApi\\Program.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\Program.cs",
-              "RelativeToolTip": "TechnicalToolsAppBackendV2.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:56:13.957Z",
+              "WhenOpened": "2025-07-12T19:47:32.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmpresaRepositorio.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\EmpresaRepositorio.cs",
-              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\EmpresaRepositorio.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\EmpresaRepositorio.cs",
-              "RelativeToolTip": "TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\EmpresaRepositorio.cs",
-              "ViewState": "AgIAAAEAAACICgAAAAARwAAAAAAAAAAAAAAAAA==",
+              "Title": "IAgregarUsuarioAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\ICasosUso\\ICasosUsoUsuario\\IAgregarUsuarioAdministrador.cs",
+              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.Aplicacion\\ICasosUso\\ICasosUsoUsuario\\IAgregarUsuarioAdministrador.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\ICasosUso\\ICasosUsoUsuario\\IAgregarUsuarioAdministrador.cs",
+              "RelativeToolTip": "TechnicalToolsAppBackendV2.Aplicacion\\ICasosUso\\ICasosUsoUsuario\\IAgregarUsuarioAdministrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:55:01.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AgregarTecnico.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoTecnico\\AgregarTecnico.cs",
-              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoTecnico\\AgregarTecnico.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoTecnico\\AgregarTecnico.cs",
-              "RelativeToolTip": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoTecnico\\AgregarTecnico.cs",
-              "ViewState": "AgIAABAAAACAAwAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:53:55.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TecnicosController.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\Controllers\\TecnicosController.cs",
-              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.WebApi\\Controllers\\TecnicosController.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\Controllers\\TecnicosController.cs",
-              "RelativeToolTip": "TechnicalToolsAppBackendV2.WebApi\\Controllers\\TecnicosController.cs",
-              "ViewState": "AgIAABIAAACgz8zMzMwVwC0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:20:33.142Z",
+              "WhenOpened": "2025-07-12T19:47:23.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AgregarUsuario.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoUsuario\\AgregarUsuario.cs",
-              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoUsuario\\AgregarUsuario.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoUsuario\\AgregarUsuario.cs",
-              "RelativeToolTip": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoUsuario\\AgregarUsuario.cs",
-              "ViewState": "AgIAAAMAAABoMgAAAAARwCcAAAAgAAAAAAAAAA==",
+              "Title": "IAgregarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\ICasosUso\\ICasosUsoUsuario\\IAgregarUsuario.cs",
+              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.Aplicacion\\ICasosUso\\ICasosUsoUsuario\\IAgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\ICasosUso\\ICasosUsoUsuario\\IAgregarUsuario.cs",
+              "RelativeToolTip": "TechnicalToolsAppBackendV2.Aplicacion\\ICasosUso\\ICasosUsoUsuario\\IAgregarUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T04:54:12.221Z",
+              "WhenOpened": "2025-07-12T19:47:13.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ConfiguracionSenderEmail.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoConfiguraciones\\ConfiguracionSenderEmail.cs",
-              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoConfiguraciones\\ConfiguracionSenderEmail.cs",
-              "ToolTip": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoConfiguraciones\\ConfiguracionSenderEmail.cs",
-              "RelativeToolTip": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoConfiguraciones\\ConfiguracionSenderEmail.cs",
-              "ViewState": "AgIAAAMAAAAAppmZmZkewCMAAABNAAAAAAAAAA==",
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\Modelo\\Empresa.cs",
+              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.LogicaNegocio\\Modelo\\Empresa.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\Modelo\\Empresa.cs",
+              "RelativeToolTip": "TechnicalToolsAppBackendV2.LogicaNegocio\\Modelo\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T04:48:24.609Z",
+              "WhenOpened": "2025-07-12T19:37:49.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SucursalRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\SucursalRepositorio.cs",
+              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\SucursalRepositorio.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\SucursalRepositorio.cs",
+              "RelativeToolTip": "TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\SucursalRepositorio.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:27:21.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bienvenida.html",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\PlantillasEmail\\Bienvenida.html",
+              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.Aplicacion\\PlantillasEmail\\Bienvenida.html",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\PlantillasEmail\\Bienvenida.html",
+              "RelativeToolTip": "TechnicalToolsAppBackendV2.Aplicacion\\PlantillasEmail\\Bienvenida.html",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-12T17:38:19.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpresaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\EmpresaRepositorio.cs",
+              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\EmpresaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\EmpresaRepositorio.cs",
+              "RelativeToolTip": "TechnicalToolsAppBackendV2.AccesoDatos\\EntityFramework\\EmpresaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T17:09:00.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmpresasController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\Controllers\\EmpresasController.cs",
+              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.WebApi\\Controllers\\EmpresasController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\Controllers\\EmpresasController.cs",
+              "RelativeToolTip": "TechnicalToolsAppBackendV2.WebApi\\Controllers\\EmpresasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:49:46.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistroInicialEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoRegistroEmpresa\\RegistroInicialEmpresa.cs",
+              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoRegistroEmpresa\\RegistroInicialEmpresa.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoRegistroEmpresa\\RegistroInicialEmpresa.cs",
+              "RelativeToolTip": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoRegistroEmpresa\\RegistroInicialEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:02:18.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnviarAvisoRegistroEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoAvisoEmail\\EnviarAvisoRegistroEmpresa.cs",
+              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoAvisoEmail\\EnviarAvisoRegistroEmpresa.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoAvisoEmail\\EnviarAvisoRegistroEmpresa.cs",
+              "RelativeToolTip": "TechnicalToolsAppBackendV2.Aplicacion\\CasosUso\\CasosUsoAvisoEmail\\EnviarAvisoRegistroEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T17:22:52.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "d68db54a-3b35-4776-8bc4-5a564da69a3e",
+        "Display": 0,
+        "X": 2143,
+        "Y": 59,
+        "Width": 1043,
+        "Height": 1150,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\Modelo\\Sucursal.cs",
+              "RelativeDocumentMoniker": "TechnicalToolsAppBackendV2.LogicaNegocio\\Modelo\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\Modelo\\Sucursal.cs",
+              "RelativeToolTip": "TechnicalToolsAppBackendV2.LogicaNegocio\\Modelo\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:27:38.765Z",
               "EditorCaption": ""
             }
           ]

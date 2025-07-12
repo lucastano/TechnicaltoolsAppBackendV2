@@ -12,8 +12,8 @@ namespace TechnicalToolsAppBackendV2.LogicaNegocio.IRepositorio
         Task<Sucursal> Agregar(Sucursal sucursal);
         Task Eliminar(int idEmpresa, int idSucursal);
         Task<Sucursal> Modificar(Sucursal sucursal);
-        Task<Sucursal> ObtenerSucursalPorId(int idEmpresa,int idSucursal);
-        Task<List<Sucursal>> ObtenerSucursalesPorEmpresa(int idEmpresa);
+        Task<Sucursal?> ObtenerSucursalPorId(int idEmpresa,int idSucursal);
+        Task<List<Sucursal?>> ObtenerSucursalesPorEmpresa(int idEmpresa);
 
     }
 }

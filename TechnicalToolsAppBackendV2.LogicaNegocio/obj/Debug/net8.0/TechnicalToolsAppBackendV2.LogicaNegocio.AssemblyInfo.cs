@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechnicalToolsAppBackendV2.LogicaNegocio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27ca747cee84f18e2d62a0717fbfad201f5f27a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechnicalToolsAppBackendV2.LogicaNegocio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechnicalToolsAppBackendV2.LogicaNegocio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

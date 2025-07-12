@@ -9,3 +9,15 @@ C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToo
 C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\refint\TechnicalToolsAppBackendV2.LogicaNegocio.dll
 C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.pdb
 C:\Mac\Home\Desktop\Desarrollo\v2Backend\TechnicalToolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\ref\TechnicalToolsAppBackendV2.LogicaNegocio.dll
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\bin\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.deps.json
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\bin\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.dll
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\bin\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.pdb
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.sourcelink.json
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.dll
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\refint\TechnicalToolsAppBackendV2.LogicaNegocio.dll
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\TechnicalToolsAppBackendV2.LogicaNegocio.pdb
+C:\Users\Lucas\Desktop\desarrollo\BackendV2\TechnicaltoolsAppBackendV2\TechnicalToolsAppBackendV2.LogicaNegocio\obj\Debug\net8.0\ref\TechnicalToolsAppBackendV2.LogicaNegocio.dll

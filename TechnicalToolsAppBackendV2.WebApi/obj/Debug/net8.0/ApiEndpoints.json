@@ -1,5 +1,61 @@
 [
   {
+    "ContainingType": "TechnicalToolsAppBackendV2.WebApi.Controllers.EmpresasController",
+    "Method": "Agregar",
+    "RelativePath": "api/Empresas/RegistrarEmpresa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NombreFantasia",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RazonSocial",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NumeroRUT",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PoliticasEmpresa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NombreAdministrador",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ApellidoAdministrador",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Foto",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TechnicalToolsAppBackendV2.WebApi.Controllers.SeguridadController",
     "Method": "Login",
     "RelativePath": "api/Seguridad/Login",

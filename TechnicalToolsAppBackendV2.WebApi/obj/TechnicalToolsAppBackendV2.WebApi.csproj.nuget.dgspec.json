@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj": {}
+    "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj": {
+    "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj",
         "projectName": "TechnicalToolsAppBackendV2.AccesoDatos",
-        "projectPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj",
-        "packagesPath": "C:\\Users\\lucastano\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\obj\\",
+        "projectPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lucastano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj": {
-                "projectPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj"
+              "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj": {
+                "projectPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj"
               }
             }
           }
@@ -47,8 +44,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -85,25 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj": {
+    "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj",
         "projectName": "TechnicalToolsAppBackendV2.Aplicacion",
-        "projectPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\lucastano\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\obj\\",
+        "projectPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lucastano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,17 +103,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj": {
-                "projectPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj"
+              "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj"
               },
-              "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj": {
-                "projectPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj"
+              "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj": {
+                "projectPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj"
               }
             }
           }
@@ -135,8 +128,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -167,25 +159,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj": {
+    "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj",
         "projectName": "TechnicalToolsAppBackendV2.LogicaNegocio",
-        "projectPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj",
-        "packagesPath": "C:\\Users\\lucastano\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\obj\\",
+        "projectPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lucastano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -193,6 +181,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -210,8 +199,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -232,25 +220,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj": {
+    "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj",
         "projectName": "TechnicalToolsAppBackendV2.WebApi",
-        "projectPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj",
-        "packagesPath": "C:\\Users\\lucastano\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\TechnicalToolsAppBackendV2.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.WebApi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lucastano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -258,20 +242,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj": {
-                "projectPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj"
+              "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.AccesoDatos\\TechnicalToolsAppBackendV2.AccesoDatos.csproj"
               },
-              "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj": {
-                "projectPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj"
+              "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.Aplicacion\\TechnicalToolsAppBackendV2.Aplicacion.csproj"
               },
-              "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj": {
-                "projectPath": "C:\\Mac\\Home\\Desktop\\Desarrollo\\v2Backend\\TechnicalToolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj"
+              "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj": {
+                "projectPath": "C:\\Users\\Lucas\\Desktop\\desarrollo\\BackendV2\\TechnicaltoolsAppBackendV2\\TechnicalToolsAppBackendV2.LogicaNegocio\\TechnicalToolsAppBackendV2.LogicaNegocio.csproj"
               }
             }
           }
@@ -285,8 +270,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -344,7 +328,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

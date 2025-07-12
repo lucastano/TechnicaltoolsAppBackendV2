@@ -1791,7 +1791,7 @@
         },
         "runtime": {
           "TechnicalToolsAppBackendV2.AccesoDatos.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1805,7 +1805,7 @@
         },
         "runtime": {
           "TechnicalToolsAppBackendV2.Aplicacion.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1813,7 +1813,7 @@
       "TechnicalToolsAppBackendV2.LogicaNegocio/1.0.0": {
         "runtime": {
           "TechnicalToolsAppBackendV2.LogicaNegocio.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

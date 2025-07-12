@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,18 +13,18 @@ namespace TechnicalToolsAppBackendV2.LogicaNegocio.Modelo
         public string CodigoSucursal { get; set; }
         public string Direccion { get; set; }
         public string Telefono { get; set; }
-        public string Email { get; set; }
         public Empresa Empresa { get; set; }
-        public string? EmailServer { get; set; }
-        public string? apiKey { get; set; }
-        public string? secretKey { get; set; }
         public bool avisosEmail { get; set; }
         public bool avisosWsp { get; set; }
+        [NotMapped]
+        public static int ultimoCodigoSucursal = 001;
 
         public Sucursal() 
         {
             this.avisosEmail = true;
             this.avisosWsp = false;
+            this.CodigoSucursal = ultimoCodigoSucursal.ToString();
+            ultimoCodigoSucursal++;
         }
     }
 }

@@ -40,9 +40,6 @@ namespace TechnicalToolsAppBackendV2.Aplicacion.CasosUso.CasosUsoSeguridad
                 int indice = random.Next(numeros.Length);
                 resultadoNumeros += numeros[indice];
             }
-
-
-
             return resultadoCaracteres + resultadoNumeros;
         }
     }

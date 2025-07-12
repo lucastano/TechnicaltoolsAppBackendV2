@@ -30,8 +30,8 @@ namespace TechnicalToolsAppBackendV2.Aplicacion.CasosUso.CasosUsoTecnico
         }
         public async Task<Tecnico> Ejecutar(Tecnico tecnico, string email)
         {
-            try
-            {
+            //try
+            //{
                 Rol rol = await obtenerRolPorCod.Ejecutar(RolesCod.RolTec.ToString());
                 Usuario usuario = new Usuario
                 {
@@ -48,11 +48,11 @@ namespace TechnicalToolsAppBackendV2.Aplicacion.CasosUso.CasosUsoTecnico
                 relTecnicoUsuario.Ejecutar(relTecUsu);
                 await enviarEmailNuevoUsuario.Ejecutar(usuarioCreado, tecnicoCreado, passwordCreado);
                 return tecnicoCreado;
-            }
-            catch (Exception ex) 
-            {
-                return null;           
-            }   
+            //}
+            //catch (Exception ex) 
+            //{
+            //    return new Exception(ex.Message.ToString);           
+            //}   
         }
     }
 }

@@ -56,10 +56,9 @@ namespace TechnicalToolsAppBackendV2.WebApi.Controllers
             }
             catch (Exception ex)
             {
-                ResponseAgregarTecnico response = new ResponseAgregarTecnico
+                ResponseAgregarTecnicoError response = new ResponseAgregarTecnicoError
                 {
-                    Status = "error",
-                    tecnico = null
+                    descripcion = ex.Message
                 };
                 return BadRequest(response);
             }
